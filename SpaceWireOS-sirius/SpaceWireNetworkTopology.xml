@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SpaceWireNetworkTopology
+	xmlns="http://www.pizzafactory.jp/SpaceWire/NetworkTopology">
+	<Subnet>
+		<FDIR IntervalTime="5" />
+		<Timeslot Number="64" SlotTime="15625" />
+		<Router Id="Router1" NetworkPropagationDelay="2">
+			<Port Number="1" />
+			<Port Number="2" />
+			<Port Number="6" />
+		</Router>
+		<Node Id="SMU-A">
+			<Port Number="1" LogicalAddress="0x41" Key="0x41" />
+		</Node>
+		<Node Id="AOCP-A">
+			<Port Number="1" LogicalAddress="0x42" Key="0x42" />
+		</Node>
+		<Link Id="Router1-AOCP-A" Speed="50" NetworkPropagationDelay="0">
+			<Endpoint1 Id="Router1" Port="1" />
+			<Endpoint2 Id="AOCP-A" Port="1" />
+		</Link>
+		<Link Id="AOCP-A-Router1" Speed="25" NetworkPropagationDelay="0">
+			<Endpoint1 Id="AOCP-A" Port="1" />
+			<Endpoint2 Id="Router1" Port="1" />
+		</Link>
+	</Subnet>
+</SpaceWireNetworkTopology>

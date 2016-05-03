@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<viewpoint:DAnalysis xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:description="http://www.eclipse.org/sirius/description/1.1.0" xmlns:description_1="http://www.eclipse.org/sirius/diagram/description/1.1.0" xmlns:diagram="http://www.eclipse.org/sirius/diagram/1.1.0" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:ntopo="http://www.pizzafactory.jp/SpaceWire/NetworkTopology" xmlns:style="http://www.eclipse.org/sirius/diagram/description/style/1.1.0" xmlns:viewpoint="http://www.eclipse.org/sirius/1.1.0" xsi:schemaLocation="http://www.eclipse.org/sirius/description/1.1.0 http://www.eclipse.org/sirius/1.1.0#//description http://www.eclipse.org/sirius/diagram/description/1.1.0 http://www.eclipse.org/sirius/diagram/1.1.0#//description http://www.eclipse.org/sirius/diagram/description/style/1.1.0 http://www.eclipse.org/sirius/diagram/1.1.0#//description/style" xmi:id="_h2Q-0A6CEeaRh4vfoz7DCQ" selectedViews="_h-vzIA6HEeaRh4vfoz7DCQ" version="10.1.0.201509162000">
+  <semanticResources>NetworkTopology.swosnt</semanticResources>
+  <ownedViews xmi:type="viewpoint:DRepresentationContainer" xmi:id="_h-vzIA6HEeaRh4vfoz7DCQ">
+    <ownedRepresentations xmi:type="diagram:DSemanticDiagram" xmi:id="_fGeswBAMEeag3LIDXWtBjg" name="new NetworkTopology">
+      <ownedAnnotationEntries xmi:type="description:AnnotationEntry" xmi:id="_fGeswRAMEeag3LIDXWtBjg" source="DANNOTATION_CUSTOMIZATION_KEY">
+        <data xmi:type="diagram:ComputedStyleDescriptionRegistry" xmi:id="_fGeswhAMEeag3LIDXWtBjg"/>
+      </ownedAnnotationEntries>
+      <ownedAnnotationEntries xmi:type="description:AnnotationEntry" xmi:id="_fIoo4BAMEeag3LIDXWtBjg" source="GMF_DIAGRAMS">
+        <data xmi:type="notation:Diagram" xmi:id="_fIoo4RAMEeag3LIDXWtBjg" type="Sirius" element="_fGeswBAMEeag3LIDXWtBjg" measurementUnit="Pixel">
+          <children xmi:type="notation:Node" xmi:id="_fJ4mEBAMEeag3LIDXWtBjg" type="2002" element="_fGeswxAMEeag3LIDXWtBjg">
+            <children xmi:type="notation:Node" xmi:id="_fLJKUBAMEeag3LIDXWtBjg" type="5006"/>
+            <children xmi:type="notation:Node" xmi:id="_fLOC0BAMEeag3LIDXWtBjg" type="7001">
+              <children xmi:type="notation:Node" xmi:id="_fL1t4BAMEeag3LIDXWtBjg" type="3007" element="_fGesxRAMEeag3LIDXWtBjg">
+                <children xmi:type="notation:Node" xmi:id="_fL4KIBAMEeag3LIDXWtBjg" type="5003">
+                  <layoutConstraint xmi:type="notation:Location" xmi:id="_fL4KIRAMEeag3LIDXWtBjg" y="5"/>
+                </children>
+                <children xmi:type="notation:Node" xmi:id="_fMSZ0BAMEeag3LIDXWtBjg" type="3003" element="_fGesxhAMEeag3LIDXWtBjg">
+                  <styles xmi:type="notation:ShapeStyle" xmi:id="_fMSZ0RAMEeag3LIDXWtBjg" fontName="Sans"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fMSZ0hAMEeag3LIDXWtBjg"/>
+                </children>
+                <children xmi:type="notation:Node" xmi:id="_7cdD0BAMEeag3LIDXWtBjg" type="3001" element="_7bFx4BAMEeag3LIDXWtBjg">
+                  <children xmi:type="notation:Node" xmi:id="_7cdq4BAMEeag3LIDXWtBjg" type="5001">
+                    <layoutConstraint xmi:type="notation:Location" xmi:id="_7cdq4RAMEeag3LIDXWtBjg" y="5"/>
+                  </children>
+                  <children xmi:type="notation:Node" xmi:id="_7crGQBAMEeag3LIDXWtBjg" type="3002" element="_7bGY8BAMEeag3LIDXWtBjg">
+                    <styles xmi:type="notation:ShapeStyle" xmi:id="_7crGQRAMEeag3LIDXWtBjg" fontName="Sans"/>
+                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_7crGQhAMEeag3LIDXWtBjg"/>
+                  </children>
+                  <styles xmi:type="notation:ShapeStyle" xmi:id="_7cdD0RAMEeag3LIDXWtBjg" fontName="Sans" fontHeight="8"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_7cdD0hAMEeag3LIDXWtBjg" x="92" width="30" height="30"/>
+                </children>
+                <children xmi:type="notation:Node" xmi:id="_7clmsBAMEeag3LIDXWtBjg" type="3001" element="_7bYs0BAMEeag3LIDXWtBjg">
+                  <children xmi:type="notation:Node" xmi:id="_7cmNwBAMEeag3LIDXWtBjg" type="5001">
+                    <layoutConstraint xmi:type="notation:Location" xmi:id="_7cmNwRAMEeag3LIDXWtBjg" y="5"/>
+                  </children>
+                  <children xmi:type="notation:Node" xmi:id="_7crGQxAMEeag3LIDXWtBjg" type="3002" element="_7bZ68BAMEeag3LIDXWtBjg">
+                    <styles xmi:type="notation:ShapeStyle" xmi:id="_7crGRBAMEeag3LIDXWtBjg" fontName="Sans"/>
+                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_7crtUBAMEeag3LIDXWtBjg"/>
+                  </children>
+                  <styles xmi:type="notation:ShapeStyle" xmi:id="_7clmsRAMEeag3LIDXWtBjg" fontName="Sans" fontHeight="8"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_7clmshAMEeag3LIDXWtBjg" x="-22" y="31" width="30" height="30"/>
+                </children>
+                <children xmi:type="notation:Node" xmi:id="_7cpREBAMEeag3LIDXWtBjg" type="3001" element="_7bk6EBAMEeag3LIDXWtBjg">
+                  <children xmi:type="notation:Node" xmi:id="_7cqfMBAMEeag3LIDXWtBjg" type="5001">
+                    <layoutConstraint xmi:type="notation:Location" xmi:id="_7cqfMRAMEeag3LIDXWtBjg" y="5"/>
+                  </children>
+                  <children xmi:type="notation:Node" xmi:id="_7crtURAMEeag3LIDXWtBjg" type="3002" element="_7bnWUBAMEeag3LIDXWtBjg">
+                    <styles xmi:type="notation:ShapeStyle" xmi:id="_7crtUhAMEeag3LIDXWtBjg" fontName="Sans"/>
+                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_7crtUxAMEeag3LIDXWtBjg"/>
+                  </children>
+                  <styles xmi:type="notation:ShapeStyle" xmi:id="_7cpRERAMEeag3LIDXWtBjg" fontName="Sans" fontHeight="8"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_7cpREhAMEeag3LIDXWtBjg" x="-22" y="62" width="30" height="30"/>
+                </children>
+                <styles xmi:type="notation:ShapeStyle" xmi:id="_fL1t4RAMEeag3LIDXWtBjg" fontName="Sans" fontHeight="8"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fL1t4hAMEeag3LIDXWtBjg" x="31" y="90" width="100" height="100"/>
+              </children>
+              <children xmi:type="notation:Node" xmi:id="_fMCiMBAMEeag3LIDXWtBjg" type="3007" element="_fGesxxAMEeag3LIDXWtBjg">
+                <children xmi:type="notation:Node" xmi:id="_fME-cBAMEeag3LIDXWtBjg" type="5003">
+                  <layoutConstraint xmi:type="notation:Location" xmi:id="_fME-cRAMEeag3LIDXWtBjg" y="5"/>
+                </children>
+                <children xmi:type="notation:Node" xmi:id="_fMzXMBAMEeag3LIDXWtBjg" type="3003" element="_fGfT0RAMEeag3LIDXWtBjg">
+                  <styles xmi:type="notation:ShapeStyle" xmi:id="_fMzXMRAMEeag3LIDXWtBjg" fontName="Sans"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fMzXMhAMEeag3LIDXWtBjg"/>
+                </children>
+                <children xmi:type="notation:Node" xmi:id="__2ZfsBD1EeaLkIzG-3IkKg" visible="false" type="3001" element="__11fABD1EeaLkIzG-3IkKg">
+                  <children xmi:type="notation:Node" xmi:id="__2aGwRD1EeaLkIzG-3IkKg" type="5001">
+                    <layoutConstraint xmi:type="notation:Location" xmi:id="__2aGwhD1EeaLkIzG-3IkKg" y="5"/>
+                  </children>
+                  <children xmi:type="notation:Node" xmi:id="__2ipoBD1EeaLkIzG-3IkKg" type="3003" element="__12GEBD1EeaLkIzG-3IkKg">
+                    <styles xmi:type="notation:ShapeStyle" xmi:id="__2ipoRD1EeaLkIzG-3IkKg" fontName="Sans"/>
+                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="__2ipohD1EeaLkIzG-3IkKg"/>
+                  </children>
+                  <styles xmi:type="notation:ShapeStyle" xmi:id="__2ZfsRD1EeaLkIzG-3IkKg" fontName="Sans" fontHeight="8"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="__2aGwBD1EeaLkIzG-3IkKg" x="92" width="100" height="100"/>
+                </children>
+                <children xmi:type="notation:Node" xmi:id="__2g0cBD1EeaLkIzG-3IkKg" visible="false" type="3001" element="__12tIBD1EeaLkIzG-3IkKg">
+                  <children xmi:type="notation:Node" xmi:id="__2g0cxD1EeaLkIzG-3IkKg" type="5001">
+                    <layoutConstraint xmi:type="notation:Location" xmi:id="__2g0dBD1EeaLkIzG-3IkKg" y="5"/>
+                  </children>
+                  <children xmi:type="notation:Node" xmi:id="__2jQsBD1EeaLkIzG-3IkKg" type="3003" element="__12tIRD1EeaLkIzG-3IkKg">
+                    <styles xmi:type="notation:ShapeStyle" xmi:id="__2jQsRD1EeaLkIzG-3IkKg" fontName="Sans"/>
+                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="__2jQshD1EeaLkIzG-3IkKg"/>
+                  </children>
+                  <styles xmi:type="notation:ShapeStyle" xmi:id="__2g0cRD1EeaLkIzG-3IkKg" fontName="Sans" fontHeight="8"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="__2g0chD1EeaLkIzG-3IkKg" x="-92" width="100" height="100"/>
+                </children>
+                <children xmi:type="notation:Node" xmi:id="__2hbgBD1EeaLkIzG-3IkKg" visible="false" type="3001" element="__15JYBD1EeaLkIzG-3IkKg">
+                  <children xmi:type="notation:Node" xmi:id="__2iCkBD1EeaLkIzG-3IkKg" type="5001">
+                    <layoutConstraint xmi:type="notation:Location" xmi:id="__2iCkRD1EeaLkIzG-3IkKg" y="5"/>
+                  </children>
+                  <children xmi:type="notation:Node" xmi:id="__2j3wBD1EeaLkIzG-3IkKg" type="3003" element="__15JYRD1EeaLkIzG-3IkKg">
+                    <styles xmi:type="notation:ShapeStyle" xmi:id="__2j3wRD1EeaLkIzG-3IkKg" fontName="Sans"/>
+                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="__2j3whD1EeaLkIzG-3IkKg"/>
+                  </children>
+                  <styles xmi:type="notation:ShapeStyle" xmi:id="__2hbgRD1EeaLkIzG-3IkKg" fontName="Sans" fontHeight="8"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="__2hbghD1EeaLkIzG-3IkKg" x="92" width="100" height="100"/>
+                </children>
+                <children xmi:type="notation:Node" xmi:id="_iHPSsBD2EeaLkIzG-3IkKg" type="3001" element="_iG7wsBD2EeaLkIzG-3IkKg">
+                  <children xmi:type="notation:Node" xmi:id="_iHP5wBD2EeaLkIzG-3IkKg" type="5001">
+                    <layoutConstraint xmi:type="notation:Location" xmi:id="_iHP5wRD2EeaLkIzG-3IkKg" y="5"/>
+                  </children>
+                  <children xmi:type="notation:Node" xmi:id="_weKU8BD2EeaLkIzG-3IkKg" type="3002" element="_wdK2cBD2EeaLkIzG-3IkKg">
+                    <styles xmi:type="notation:ShapeStyle" xmi:id="_weKU8RD2EeaLkIzG-3IkKg" fontName="Sans"/>
+                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_weKU8hD2EeaLkIzG-3IkKg"/>
+                  </children>
+                  <styles xmi:type="notation:ShapeStyle" xmi:id="_iHPSsRD2EeaLkIzG-3IkKg" fontName="Sans" fontHeight="8"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iHPSshD2EeaLkIzG-3IkKg" x="-22" y="28" width="30" height="30"/>
+                </children>
+                <styles xmi:type="notation:ShapeStyle" xmi:id="_fMCiMRAMEeag3LIDXWtBjg" fontName="Sans" fontHeight="8"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fMCiMhAMEeag3LIDXWtBjg" x="316" y="206" width="100" height="100"/>
+              </children>
+              <children xmi:type="notation:Node" xmi:id="_fMFlgBAMEeag3LIDXWtBjg" type="3007" element="_fGfT0hAMEeag3LIDXWtBjg">
+                <children xmi:type="notation:Node" xmi:id="_fMIo0BAMEeag3LIDXWtBjg" type="5003">
+                  <layoutConstraint xmi:type="notation:Location" xmi:id="_fMIo0RAMEeag3LIDXWtBjg" y="5"/>
+                </children>
+                <children xmi:type="notation:Node" xmi:id="_fM7TABAMEeag3LIDXWtBjg" type="3003" element="_fGfT1RAMEeag3LIDXWtBjg">
+                  <styles xmi:type="notation:ShapeStyle" xmi:id="_fM7TARAMEeag3LIDXWtBjg" fontName="Sans"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fM7TAhAMEeag3LIDXWtBjg"/>
+                </children>
+                <children xmi:type="notation:Node" xmi:id="__2j3wxD1EeaLkIzG-3IkKg" visible="false" type="3001" element="__1-B4BD1EeaLkIzG-3IkKg">
+                  <children xmi:type="notation:Node" xmi:id="__2p-YBD1EeaLkIzG-3IkKg" type="5001">
+                    <layoutConstraint xmi:type="notation:Location" xmi:id="__2p-YRD1EeaLkIzG-3IkKg" y="5"/>
+                  </children>
+                  <children xmi:type="notation:Node" xmi:id="__2x6MBD1EeaLkIzG-3IkKg" type="3003" element="__1-B4RD1EeaLkIzG-3IkKg">
+                    <styles xmi:type="notation:ShapeStyle" xmi:id="__2x6MRD1EeaLkIzG-3IkKg" fontName="Sans"/>
+                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="__2x6MhD1EeaLkIzG-3IkKg"/>
+                  </children>
+                  <styles xmi:type="notation:ShapeStyle" xmi:id="__2j3xBD1EeaLkIzG-3IkKg" fontName="Sans" fontHeight="8"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="__2j3xRD1EeaLkIzG-3IkKg" x="92" width="100" height="100"/>
+                </children>
+                <children xmi:type="notation:Node" xmi:id="__2qlcBD1EeaLkIzG-3IkKg" visible="false" type="3001" element="__1-o8BD1EeaLkIzG-3IkKg">
+                  <children xmi:type="notation:Node" xmi:id="__2rMgBD1EeaLkIzG-3IkKg" type="5001">
+                    <layoutConstraint xmi:type="notation:Location" xmi:id="__2rMgRD1EeaLkIzG-3IkKg" y="5"/>
+                  </children>
+                  <children xmi:type="notation:Node" xmi:id="__2yhQBD1EeaLkIzG-3IkKg" type="3003" element="__1-o8RD1EeaLkIzG-3IkKg">
+                    <styles xmi:type="notation:ShapeStyle" xmi:id="__2yhQRD1EeaLkIzG-3IkKg" fontName="Sans"/>
+                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="__2yhQhD1EeaLkIzG-3IkKg"/>
+                  </children>
+                  <styles xmi:type="notation:ShapeStyle" xmi:id="__2qlcRD1EeaLkIzG-3IkKg" fontName="Sans" fontHeight="8"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="__2qlchD1EeaLkIzG-3IkKg" x="-92" width="100" height="100"/>
+                </children>
+                <children xmi:type="notation:Node" xmi:id="__2rzkBD1EeaLkIzG-3IkKg" visible="false" type="3001" element="__1_QABD1EeaLkIzG-3IkKg">
+                  <children xmi:type="notation:Node" xmi:id="__2saoBD1EeaLkIzG-3IkKg" type="5001">
+                    <layoutConstraint xmi:type="notation:Location" xmi:id="__2saoRD1EeaLkIzG-3IkKg" y="5"/>
+                  </children>
+                  <children xmi:type="notation:Node" xmi:id="__2zIUBD1EeaLkIzG-3IkKg" type="3003" element="__1_QARD1EeaLkIzG-3IkKg">
+                    <styles xmi:type="notation:ShapeStyle" xmi:id="__2zIURD1EeaLkIzG-3IkKg" fontName="Sans"/>
+                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="__2zIUhD1EeaLkIzG-3IkKg"/>
+                  </children>
+                  <styles xmi:type="notation:ShapeStyle" xmi:id="__2rzkRD1EeaLkIzG-3IkKg" fontName="Sans" fontHeight="8"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="__2rzkhD1EeaLkIzG-3IkKg" x="92" width="100" height="100"/>
+                </children>
+                <children xmi:type="notation:Node" xmi:id="_iHULMBD2EeaLkIzG-3IkKg" type="3001" element="_iG8-0BD2EeaLkIzG-3IkKg">
+                  <children xmi:type="notation:Node" xmi:id="_iHUyQBD2EeaLkIzG-3IkKg" type="5001">
+                    <layoutConstraint xmi:type="notation:Location" xmi:id="_iHUyQRD2EeaLkIzG-3IkKg" y="5"/>
+                  </children>
+                  <children xmi:type="notation:Node" xmi:id="_weP0gBD2EeaLkIzG-3IkKg" type="3002" element="_wdveMBD2EeaLkIzG-3IkKg">
+                    <styles xmi:type="notation:ShapeStyle" xmi:id="_weP0gRD2EeaLkIzG-3IkKg" fontName="Sans"/>
+                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_weP0ghD2EeaLkIzG-3IkKg"/>
+                  </children>
+                  <styles xmi:type="notation:ShapeStyle" xmi:id="_iHULMRD2EeaLkIzG-3IkKg" fontName="Sans" fontHeight="8"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iHULMhD2EeaLkIzG-3IkKg" x="-22" y="31" width="30" height="30"/>
+                </children>
+                <styles xmi:type="notation:ShapeStyle" xmi:id="_fMFlgRAMEeag3LIDXWtBjg" fontName="Sans" fontHeight="8"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fMFlghAMEeag3LIDXWtBjg" x="320" y="30" width="100" height="100"/>
+              </children>
+              <children xmi:type="notation:Node" xmi:id="_o-RjUBDzEeaLkIzG-3IkKg" type="3007" element="_o9NMUBDzEeaLkIzG-3IkKg">
+                <children xmi:type="notation:Node" xmi:id="_o-T_kBDzEeaLkIzG-3IkKg" type="5003">
+                  <layoutConstraint xmi:type="notation:Location" xmi:id="_o-T_kRDzEeaLkIzG-3IkKg" y="5"/>
+                </children>
+                <children xmi:type="notation:Node" xmi:id="_o-keQBDzEeaLkIzG-3IkKg" type="3003" element="_o9NzYBDzEeaLkIzG-3IkKg">
+                  <styles xmi:type="notation:ShapeStyle" xmi:id="_o-keQRDzEeaLkIzG-3IkKg" fontName="Sans"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_o-keQhDzEeaLkIzG-3IkKg"/>
+                </children>
+                <children xmi:type="notation:Node" xmi:id="__2-ugBD1EeaLkIzG-3IkKg" visible="false" type="3001" element="__1_3EBD1EeaLkIzG-3IkKg">
+                  <children xmi:type="notation:Node" xmi:id="__3DnAhD1EeaLkIzG-3IkKg" type="5001">
+                    <layoutConstraint xmi:type="notation:Location" xmi:id="__3DnAxD1EeaLkIzG-3IkKg" y="5"/>
+                  </children>
+                  <children xmi:type="notation:Node" xmi:id="__3S3kBD1EeaLkIzG-3IkKg" type="3003" element="__1_3ERD1EeaLkIzG-3IkKg">
+                    <styles xmi:type="notation:ShapeStyle" xmi:id="__3S3kRD1EeaLkIzG-3IkKg" fontName="Sans"/>
+                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="__3S3khD1EeaLkIzG-3IkKg"/>
+                  </children>
+                  <styles xmi:type="notation:ShapeStyle" xmi:id="__3DnABD1EeaLkIzG-3IkKg" fontName="Sans" fontHeight="8"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="__3DnARD1EeaLkIzG-3IkKg" x="92" width="100" height="100"/>
+                </children>
+                <children xmi:type="notation:Node" xmi:id="__3EOEBD1EeaLkIzG-3IkKg" visible="false" type="3001" element="__2BsQBD1EeaLkIzG-3IkKg">
+                  <children xmi:type="notation:Node" xmi:id="__3E1IBD1EeaLkIzG-3IkKg" type="5001">
+                    <layoutConstraint xmi:type="notation:Location" xmi:id="__3E1IRD1EeaLkIzG-3IkKg" y="5"/>
+                  </children>
+                  <children xmi:type="notation:Node" xmi:id="__3cBgBD1EeaLkIzG-3IkKg" type="3003" element="__2BsQRD1EeaLkIzG-3IkKg">
+                    <styles xmi:type="notation:ShapeStyle" xmi:id="__3cBgRD1EeaLkIzG-3IkKg" fontName="Sans"/>
+                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="__3cBghD1EeaLkIzG-3IkKg"/>
+                  </children>
+                  <styles xmi:type="notation:ShapeStyle" xmi:id="__3EOERD1EeaLkIzG-3IkKg" fontName="Sans" fontHeight="8"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="__3EOEhD1EeaLkIzG-3IkKg" x="-92" width="100" height="100"/>
+                </children>
+                <children xmi:type="notation:Node" xmi:id="__3E1IhD1EeaLkIzG-3IkKg" visible="false" type="3001" element="__2CTUBD1EeaLkIzG-3IkKg">
+                  <children xmi:type="notation:Node" xmi:id="__3SQgBD1EeaLkIzG-3IkKg" type="5001">
+                    <layoutConstraint xmi:type="notation:Location" xmi:id="__3SQgRD1EeaLkIzG-3IkKg" y="5"/>
+                  </children>
+                  <children xmi:type="notation:Node" xmi:id="__3cokBD1EeaLkIzG-3IkKg" type="3003" element="__2CTURD1EeaLkIzG-3IkKg">
+                    <styles xmi:type="notation:ShapeStyle" xmi:id="__3cokRD1EeaLkIzG-3IkKg" fontName="Sans"/>
+                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="__3cokhD1EeaLkIzG-3IkKg"/>
+                  </children>
+                  <styles xmi:type="notation:ShapeStyle" xmi:id="__3E1IxD1EeaLkIzG-3IkKg" fontName="Sans" fontHeight="8"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="__3E1JBD1EeaLkIzG-3IkKg" x="92" width="100" height="100"/>
+                </children>
+                <styles xmi:type="notation:ShapeStyle" xmi:id="_o-RjURDzEeaLkIzG-3IkKg" fontName="Sans" fontHeight="8"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_o-RjUhDzEeaLkIzG-3IkKg" x="499" y="102" width="100" height="100"/>
+              </children>
+              <children xmi:type="notation:Node" xmi:id="_Nyzo0BD5EeaLkIzG-3IkKg" type="3007" element="_NyWV0BD5EeaLkIzG-3IkKg">
+                <children xmi:type="notation:Node" xmi:id="_Ny0P4BD5EeaLkIzG-3IkKg" type="5003">
+                  <layoutConstraint xmi:type="notation:Location" xmi:id="_Ny0P4RD5EeaLkIzG-3IkKg" y="5"/>
+                </children>
+                <children xmi:type="notation:Node" xmi:id="_Ny028BD5EeaLkIzG-3IkKg" type="3003" element="_NyW84BD5EeaLkIzG-3IkKg">
+                  <styles xmi:type="notation:ShapeStyle" xmi:id="_Ny028RD5EeaLkIzG-3IkKg" fontName="Sans"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Ny028hD5EeaLkIzG-3IkKg"/>
+                </children>
+                <styles xmi:type="notation:ShapeStyle" xmi:id="_Nyzo0RD5EeaLkIzG-3IkKg" fontName="Sans" fontHeight="8"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Nyzo0hD5EeaLkIzG-3IkKg" x="703" y="126" width="100" height="100"/>
+              </children>
+              <styles xmi:type="notation:SortingStyle" xmi:id="_fLOC0RAMEeag3LIDXWtBjg"/>
+              <styles xmi:type="notation:FilteringStyle" xmi:id="_fLOC0hAMEeag3LIDXWtBjg"/>
+            </children>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_fJ4mERAMEeag3LIDXWtBjg" fontName="Sans" fontHeight="8"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fJ4mEhAMEeag3LIDXWtBjg" width="891" height="435"/>
+          </children>
+          <styles xmi:type="notation:DiagramStyle" xmi:id="_fIoo4hAMEeag3LIDXWtBjg"/>
+          <edges xmi:type="notation:Edge" xmi:id="_NtivUBDuEeaLkIzG-3IkKg" visible="false" type="4001" element="_NrlngBDuEeaLkIzG-3IkKg" source="_fJ4mEBAMEeag3LIDXWtBjg" target="_fMCiMBAMEeag3LIDXWtBjg">
+            <children xmi:type="notation:Node" xmi:id="_NuKaYBDuEeaLkIzG-3IkKg" type="6001">
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_NuKaYRDuEeaLkIzG-3IkKg" y="-10"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_NuLogBDuEeaLkIzG-3IkKg" type="6002">
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_NuLogRDuEeaLkIzG-3IkKg" y="10"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_NuQhABDuEeaLkIzG-3IkKg" type="6003">
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_NuQhARDuEeaLkIzG-3IkKg" y="10"/>
+            </children>
+            <styles xmi:type="notation:ConnectorStyle" xmi:id="_NtivURDuEeaLkIzG-3IkKg"/>
+            <styles xmi:type="notation:FontStyle" xmi:id="_NtivUhDuEeaLkIzG-3IkKg" fontName="Sans" fontHeight="8"/>
+            <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_NtivUxDuEeaLkIzG-3IkKg" points="[0, 0, 0, 0]$[264, 211, 264, 211]"/>
+            <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_NvPYcBDuEeaLkIzG-3IkKg" id="(0.2902158906437273,0.41571075016382597)"/>
+            <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_NvP_gBDuEeaLkIzG-3IkKg" id="(0.5,0.5)"/>
+          </edges>
+          <edges xmi:type="notation:Edge" xmi:id="_NvTp4BDuEeaLkIzG-3IkKg" visible="false" type="4001" element="_NsN5oBDuEeaLkIzG-3IkKg" source="_fJ4mEBAMEeag3LIDXWtBjg" target="_fMFlgBAMEeag3LIDXWtBjg">
+            <children xmi:type="notation:Node" xmi:id="_NvVfEBDuEeaLkIzG-3IkKg" type="6001">
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_NvVfERDuEeaLkIzG-3IkKg" y="-10"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_NvVfEhDuEeaLkIzG-3IkKg" type="6002">
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_NvVfExDuEeaLkIzG-3IkKg" y="10"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_NvVfFBDuEeaLkIzG-3IkKg" type="6003">
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_NvVfFRDuEeaLkIzG-3IkKg" y="10"/>
+            </children>
+            <styles xmi:type="notation:ConnectorStyle" xmi:id="_NvTp4RDuEeaLkIzG-3IkKg"/>
+            <styles xmi:type="notation:FontStyle" xmi:id="_NvTp4hDuEeaLkIzG-3IkKg" fontName="Sans" fontHeight="8"/>
+            <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_NvTp4xDuEeaLkIzG-3IkKg" points="[0, 0, 0, 0]$[320, 30, 320, 30]"/>
+            <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_NvaXkBDuEeaLkIzG-3IkKg" id="(0.2902158906437273,0.41571075016382597)"/>
+            <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_NvaXkRDuEeaLkIzG-3IkKg" id="(0.5,0.5)"/>
+          </edges>
+          <edges xmi:type="notation:Edge" xmi:id="_ZyjDMBD3EeaLkIzG-3IkKg" type="4001" element="_ZyJakBD3EeaLkIzG-3IkKg" source="_7cdD0BAMEeag3LIDXWtBjg" target="_iHULMBD2EeaLkIzG-3IkKg">
+            <children xmi:type="notation:Node" xmi:id="_ZyjDNBD3EeaLkIzG-3IkKg" type="6001">
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ZyjqQBD3EeaLkIzG-3IkKg" x="-1" y="-10"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_ZyjqQRD3EeaLkIzG-3IkKg" type="6002">
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ZyjqQhD3EeaLkIzG-3IkKg" y="9"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_ZyjqQxD3EeaLkIzG-3IkKg" type="6003">
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ZyjqRBD3EeaLkIzG-3IkKg" x="-1" y="10"/>
+            </children>
+            <styles xmi:type="notation:ConnectorStyle" xmi:id="_ZyjDMRD3EeaLkIzG-3IkKg"/>
+            <styles xmi:type="notation:FontStyle" xmi:id="_ZyjDMhD3EeaLkIzG-3IkKg" fontName="Sans" fontHeight="8"/>
+            <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_ZyjDMxD3EeaLkIzG-3IkKg" points="[15, -4, -160, 25]$[160, -27, -15, 2]"/>
+            <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_ZyjqRRD3EeaLkIzG-3IkKg" id="(0.5,0.5)"/>
+            <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_ZykRUBD3EeaLkIzG-3IkKg" id="(0.5,0.5)"/>
+          </edges>
+          <edges xmi:type="notation:Edge" xmi:id="_ZykRURD3EeaLkIzG-3IkKg" type="4001" element="_ZyTyoBD3EeaLkIzG-3IkKg" source="_iHULMBD2EeaLkIzG-3IkKg" target="_7cdD0BAMEeag3LIDXWtBjg">
+            <children xmi:type="notation:Node" xmi:id="_ZykRVRD3EeaLkIzG-3IkKg" type="6001">
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ZykRVhD3EeaLkIzG-3IkKg" x="-53" y="-9"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_ZykRVxD3EeaLkIzG-3IkKg" type="6002">
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ZykRWBD3EeaLkIzG-3IkKg" x="-15" y="-1"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_ZykRWRD3EeaLkIzG-3IkKg" type="6003">
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Zyk4YBD3EeaLkIzG-3IkKg" x="-17" y="10"/>
+            </children>
+            <styles xmi:type="notation:ConnectorStyle" xmi:id="_ZykRUhD3EeaLkIzG-3IkKg"/>
+            <styles xmi:type="notation:FontStyle" xmi:id="_ZykRUxD3EeaLkIzG-3IkKg" fontName="Sans" fontHeight="8"/>
+            <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_ZykRVBD3EeaLkIzG-3IkKg" points="[-15, -8, 160, -37]$[-35, -17, 140, -46]$[-160, 25, 15, -4]"/>
+            <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_ZyoiwBD3EeaLkIzG-3IkKg" id="(0.5,0.5)"/>
+            <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_ZyoiwRD3EeaLkIzG-3IkKg" id="(0.5,0.5)"/>
+          </edges>
+        </data>
+      </ownedAnnotationEntries>
+      <ownedDiagramElements xmi:type="diagram:DNodeContainer" xmi:id="_fGeswxAMEeag3LIDXWtBjg" name="FDIR=5 Timeslot=15625" outgoingEdges="_NrlngBDuEeaLkIzG-3IkKg _NsN5oBDuEeaLkIzG-3IkKg">
+        <target xmi:type="ntopo:Subnet" href="NetworkTopology.swosnt#//@spaceWireNetworkTopology/@subnet.0"/>
+        <semanticElements xmi:type="ntopo:Subnet" href="NetworkTopology.swosnt#//@spaceWireNetworkTopology/@subnet.0"/>
+        <ownedStyle xmi:type="diagram:FlatContainerStyle" xmi:id="_fGesxBAMEeag3LIDXWtBjg" borderSize="1" borderSizeComputationExpression="1">
+          <description xmi:type="style:FlatContainerStyleDescription" href="platform:/resource/jp.pizzafactory.authoring.spacewireos/description/spacewireos.odesign#//@ownedViewpoints[name='topology']/@ownedRepresentations[name='NetworkTopology']/@defaultLayer/@containerMappings[name='Subnet']/@style"/>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/resource/jp.pizzafactory.authoring.spacewireos/description/spacewireos.odesign#//@ownedViewpoints[name='topology']/@ownedRepresentations[name='NetworkTopology']/@defaultLayer/@containerMappings[name='Subnet']"/>
+        <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_fGesxRAMEeag3LIDXWtBjg" name="Router1" width="10" height="10" resizeKind="NSEW">
+          <target xmi:type="ntopo:Router" href="NetworkTopology.swosnt#//@spaceWireNetworkTopology/@subnet.0/@router.0"/>
+          <semanticElements xmi:type="ntopo:Router" href="NetworkTopology.swosnt#//@spaceWireNetworkTopology/@subnet.0/@router.0"/>
+          <ownedBorderedNodes xmi:type="diagram:DNode" xmi:id="_7bFx4BAMEeag3LIDXWtBjg" name="1" outgoingEdges="_ZyJakBD3EeaLkIzG-3IkKg" incomingEdges="_ZyTyoBD3EeaLkIzG-3IkKg" width="3" height="3" resizeKind="NSEW">
+            <target xmi:type="ntopo:Port" href="NetworkTopology.swosnt#//@spaceWireNetworkTopology/@subnet.0/@router.0/@port.0"/>
+            <semanticElements xmi:type="ntopo:Port" href="NetworkTopology.swosnt#//@spaceWireNetworkTopology/@subnet.0/@router.0/@port.0"/>
+            <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+            <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+            <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+            <ownedStyle xmi:type="diagram:Dot" xmi:id="_7bGY8BAMEeag3LIDXWtBjg" showIcon="false" labelPosition="node">
+              <description xmi:type="style:DotDescription" href="platform:/resource/jp.pizzafactory.authoring.spacewireos/description/spacewireos.odesign#//@ownedViewpoints[name='topology']/@ownedRepresentations[name='NetworkTopology']/@defaultLayer/@containerMappings[name='Subnet']/@subNodeMappings[name='Router']/@borderedNodeMappings[name='RouterPort']/@style"/>
+            </ownedStyle>
+            <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/jp.pizzafactory.authoring.spacewireos/description/spacewireos.odesign#//@ownedViewpoints[name='topology']/@ownedRepresentations[name='NetworkTopology']/@defaultLayer/@containerMappings[name='Subnet']/@subNodeMappings[name='Router']/@borderedNodeMappings[name='RouterPort']"/>
+          </ownedBorderedNodes>
+          <ownedBorderedNodes xmi:type="diagram:DNode" xmi:id="_7bYs0BAMEeag3LIDXWtBjg" name="2" width="3" height="3" resizeKind="NSEW">
+            <target xmi:type="ntopo:Port" href="NetworkTopology.swosnt#//@spaceWireNetworkTopology/@subnet.0/@router.0/@port.1"/>
+            <semanticElements xmi:type="ntopo:Port" href="NetworkTopology.swosnt#//@spaceWireNetworkTopology/@subnet.0/@router.0/@port.1"/>
+            <ownedStyle xmi:type="diagram:Dot" xmi:id="_7bZ68BAMEeag3LIDXWtBjg" showIcon="false" labelPosition="node">
+              <description xmi:type="style:DotDescription" href="platform:/resource/jp.pizzafactory.authoring.spacewireos/description/spacewireos.odesign#//@ownedViewpoints[name='topology']/@ownedRepresentations[name='NetworkTopology']/@defaultLayer/@containerMappings[name='Subnet']/@subNodeMappings[name='Router']/@borderedNodeMappings[name='RouterPort']/@style"/>
+            </ownedStyle>
+            <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/jp.pizzafactory.authoring.spacewireos/description/spacewireos.odesign#//@ownedViewpoints[name='topology']/@ownedRepresentations[name='NetworkTopology']/@defaultLayer/@containerMappings[name='Subnet']/@subNodeMappings[name='Router']/@borderedNodeMappings[name='RouterPort']"/>
+          </ownedBorderedNodes>
+          <ownedBorderedNodes xmi:type="diagram:DNode" xmi:id="_7bk6EBAMEeag3LIDXWtBjg" name="6" width="3" height="3" resizeKind="NSEW">
+            <target xmi:type="ntopo:Port" href="NetworkTopology.swosnt#//@spaceWireNetworkTopology/@subnet.0/@router.0/@port.2"/>
+            <semanticElements xmi:type="ntopo:Port" href="NetworkTopology.swosnt#//@spaceWireNetworkTopology/@subnet.0/@router.0/@port.2"/>
+            <ownedStyle xmi:type="diagram:Dot" xmi:id="_7bnWUBAMEeag3LIDXWtBjg" showIcon="false" labelPosition="node">
+              <description xmi:type="style:DotDescription" href="platform:/resource/jp.pizzafactory.authoring.spacewireos/description/spacewireos.odesign#//@ownedViewpoints[name='topology']/@ownedRepresentations[name='NetworkTopology']/@defaultLayer/@containerMappings[name='Subnet']/@subNodeMappings[name='Router']/@borderedNodeMappings[name='RouterPort']/@style"/>
+            </ownedStyle>
+            <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/jp.pizzafactory.authoring.spacewireos/description/spacewireos.odesign#//@ownedViewpoints[name='topology']/@ownedRepresentations[name='NetworkTopology']/@defaultLayer/@containerMappings[name='Subnet']/@subNodeMappings[name='Router']/@borderedNodeMappings[name='RouterPort']"/>
+          </ownedBorderedNodes>
+          <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+          <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+          <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+          <ownedStyle xmi:type="diagram:Square" xmi:id="_fGesxhAMEeag3LIDXWtBjg" labelPosition="node" width="10" height="10">
+            <description xmi:type="style:SquareDescription" href="platform:/resource/jp.pizzafactory.authoring.spacewireos/description/spacewireos.odesign#//@ownedViewpoints[name='topology']/@ownedRepresentations[name='NetworkTopology']/@defaultLayer/@containerMappings[name='Subnet']/@subNodeMappings[name='Router']/@style"/>
+          </ownedStyle>
+          <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/jp.pizzafactory.authoring.spacewireos/description/spacewireos.odesign#//@ownedViewpoints[name='topology']/@ownedRepresentations[name='NetworkTopology']/@defaultLayer/@containerMappings[name='Subnet']/@subNodeMappings[name='Router']"/>
+        </ownedDiagramElements>
+        <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_fGesxxAMEeag3LIDXWtBjg" name="SMU-A" incomingEdges="_NrlngBDuEeaLkIzG-3IkKg" width="10" height="10" resizeKind="NSEW">
+          <target xmi:type="ntopo:Node" href="NetworkTopology.swosnt#//@spaceWireNetworkTopology/@subnet.0/@node.0"/>
+          <semanticElements xmi:type="ntopo:Node" href="NetworkTopology.swosnt#//@spaceWireNetworkTopology/@subnet.0/@node.0"/>
+          <ownedBorderedNodes xmi:type="diagram:DNode" xmi:id="__11fABD1EeaLkIzG-3IkKg" name="SMU-A" visible="false" width="10" height="10" resizeKind="NSEW">
+            <target xmi:type="ntopo:Node" href="NetworkTopology.swosnt#//@spaceWireNetworkTopology/@subnet.0/@node.0"/>
+            <semanticElements xmi:type="ntopo:Node" href="NetworkTopology.swosnt#//@spaceWireNetworkTopology/@subnet.0/@node.0"/>
+            <ownedStyle xmi:type="diagram:Square" xmi:id="__12GEBD1EeaLkIzG-3IkKg" labelPosition="node" width="10" height="10">
+              <description xmi:type="style:SquareDescription" href="platform:/resource/jp.pizzafactory.authoring.spacewireos/description/spacewireos.odesign#//@ownedViewpoints[name='topology']/@ownedRepresentations[name='NetworkTopology']/@defaultLayer/@containerMappings[name='Subnet']/@subNodeMappings[name='Node']/@borderedNodeMappings[name='']/@style"/>
+            </ownedStyle>
+            <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/jp.pizzafactory.authoring.spacewireos/description/spacewireos.odesign#//@ownedViewpoints[name='topology']/@ownedRepresentations[name='NetworkTopology']/@defaultLayer/@containerMappings[name='Subnet']/@subNodeMappings[name='Node']/@borderedNodeMappings[name='']"/>
+          </ownedBorderedNodes>
+          <ownedBorderedNodes xmi:type="diagram:DNode" xmi:id="__12tIBD1EeaLkIzG-3IkKg" name="AOCP-A" visible="false" width="10" height="10" resizeKind="NSEW">
+            <target xmi:type="ntopo:Node" href="NetworkTopology.swosnt#//@spaceWireNetworkTopology/@subnet.0/@node.1"/>
+            <semanticElements xmi:type="ntopo:Node" href="NetworkTopology.swosnt#//@spaceWireNetworkTopology/@subnet.0/@node.1"/>
+            <ownedStyle xmi:type="diagram:Square" xmi:id="__12tIRD1EeaLkIzG-3IkKg" labelPosition="node" width="10" height="10">
+              <description xmi:type="style:SquareDescription" href="platform:/resource/jp.pizzafactory.authoring.spacewireos/description/spacewireos.odesign#//@ownedViewpoints[name='topology']/@ownedRepresentations[name='NetworkTopology']/@defaultLayer/@containerMappings[name='Subnet']/@subNodeMappings[name='Node']/@borderedNodeMappings[name='']/@style"/>
+            </ownedStyle>
+            <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/jp.pizzafactory.authoring.spacewireos/description/spacewireos.odesign#//@ownedViewpoints[name='topology']/@ownedRepresentations[name='NetworkTopology']/@defaultLayer/@containerMappings[name='Subnet']/@subNodeMappings[name='Node']/@borderedNodeMappings[name='']"/>
+          </ownedBorderedNodes>
+          <ownedBorderedNodes xmi:type="diagram:DNode" xmi:id="__15JYBD1EeaLkIzG-3IkKg" name="NewNode" visible="false" width="10" height="10" resizeKind="NSEW">
+            <target xmi:type="ntopo:Node" href="NetworkTopology.swosnt#//@spaceWireNetworkTopology/@subnet.0/@node.2"/>
+            <semanticElements xmi:type="ntopo:Node" href="NetworkTopology.swosnt#//@spaceWireNetworkTopology/@subnet.0/@node.2"/>
+            <ownedStyle xmi:type="diagram:Square" xmi:id="__15JYRD1EeaLkIzG-3IkKg" labelPosition="node" width="10" height="10">
+              <description xmi:type="style:SquareDescription" href="platform:/resource/jp.pizzafactory.authoring.spacewireos/description/spacewireos.odesign#//@ownedViewpoints[name='topology']/@ownedRepresentations[name='NetworkTopology']/@defaultLayer/@containerMappings[name='Subnet']/@subNodeMappings[name='Node']/@borderedNodeMappings[name='']/@style"/>
+            </ownedStyle>
+            <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/jp.pizzafactory.authoring.spacewireos/description/spacewireos.odesign#//@ownedViewpoints[name='topology']/@ownedRepresentations[name='NetworkTopology']/@defaultLayer/@containerMappings[name='Subnet']/@subNodeMappings[name='Node']/@borderedNodeMappings[name='']"/>
+          </ownedBorderedNodes>
+          <ownedBorderedNodes xmi:type="diagram:DNode" xmi:id="_iG7wsBD2EeaLkIzG-3IkKg" name="1" width="3" height="3" resizeKind="NSEW">
+            <target xmi:type="ntopo:NodePort" href="NetworkTopology.swosnt#//@spaceWireNetworkTopology/@subnet.0/@node.0/@port.0"/>
+            <semanticElements xmi:type="ntopo:NodePort" href="NetworkTopology.swosnt#//@spaceWireNetworkTopology/@subnet.0/@node.0/@port.0"/>
+            <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+            <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+            <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+            <ownedStyle xmi:type="diagram:Dot" xmi:id="_wdK2cBD2EeaLkIzG-3IkKg" showIcon="false" labelPosition="node">
+              <description xmi:type="style:DotDescription" href="platform:/resource/jp.pizzafactory.authoring.spacewireos/description/spacewireos.odesign#//@ownedViewpoints[name='topology']/@ownedRepresentations[name='NetworkTopology']/@defaultLayer/@containerMappings[name='Subnet']/@subNodeMappings[name='Node']/@borderedNodeMappings[name='NodePort']/@style"/>
+            </ownedStyle>
+            <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/jp.pizzafactory.authoring.spacewireos/description/spacewireos.odesign#//@ownedViewpoints[name='topology']/@ownedRepresentations[name='NetworkTopology']/@defaultLayer/@containerMappings[name='Subnet']/@subNodeMappings[name='Node']/@borderedNodeMappings[name='NodePort']"/>
+          </ownedBorderedNodes>
+          <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+          <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+          <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+          <ownedStyle xmi:type="diagram:Square" xmi:id="_fGfT0RAMEeag3LIDXWtBjg" labelPosition="node" width="10" height="10">
+            <description xmi:type="style:SquareDescription" href="platform:/resource/jp.pizzafactory.authoring.spacewireos/description/spacewireos.odesign#//@ownedViewpoints[name='topology']/@ownedRepresentations[name='NetworkTopology']/@defaultLayer/@containerMappings[name='Subnet']/@subNodeMappings[name='Node']/@style"/>
+          </ownedStyle>
+          <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/jp.pizzafactory.authoring.spacewireos/description/spacewireos.odesign#//@ownedViewpoints[name='topology']/@ownedRepresentations[name='NetworkTopology']/@defaultLayer/@containerMappings[name='Subnet']/@subNodeMappings[name='Node']"/>
+        </ownedDiagramElements>
+        <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_fGfT0hAMEeag3LIDXWtBjg" name="AOCP-A" incomingEdges="_NsN5oBDuEeaLkIzG-3IkKg" width="10" height="10" resizeKind="NSEW">
+          <target xmi:type="ntopo:Node" href="NetworkTopology.swosnt#//@spaceWireNetworkTopology/@subnet.0/@node.1"/>
+          <semanticElements xmi:type="ntopo:Node" href="NetworkTopology.swosnt#//@spaceWireNetworkTopology/@subnet.0/@node.1"/>
+          <ownedBorderedNodes xmi:type="diagram:DNode" xmi:id="__1-B4BD1EeaLkIzG-3IkKg" name="SMU-A" visible="false" width="10" height="10" resizeKind="NSEW">
+            <target xmi:type="ntopo:Node" href="NetworkTopology.swosnt#//@spaceWireNetworkTopology/@subnet.0/@node.0"/>
+            <semanticElements xmi:type="ntopo:Node" href="NetworkTopology.swosnt#//@spaceWireNetworkTopology/@subnet.0/@node.0"/>
+            <ownedStyle xmi:type="diagram:Square" xmi:id="__1-B4RD1EeaLkIzG-3IkKg" labelPosition="node" width="10" height="10">
+              <description xmi:type="style:SquareDescription" href="platform:/resource/jp.pizzafactory.authoring.spacewireos/description/spacewireos.odesign#//@ownedViewpoints[name='topology']/@ownedRepresentations[name='NetworkTopology']/@defaultLayer/@containerMappings[name='Subnet']/@subNodeMappings[name='Node']/@borderedNodeMappings[name='']/@style"/>
+            </ownedStyle>
+            <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/jp.pizzafactory.authoring.spacewireos/description/spacewireos.odesign#//@ownedViewpoints[name='topology']/@ownedRepresentations[name='NetworkTopology']/@defaultLayer/@containerMappings[name='Subnet']/@subNodeMappings[name='Node']/@borderedNodeMappings[name='']"/>
+          </ownedBorderedNodes>
+          <ownedBorderedNodes xmi:type="diagram:DNode" xmi:id="__1-o8BD1EeaLkIzG-3IkKg" name="AOCP-A" visible="false" width="10" height="10" resizeKind="NSEW">
+            <target xmi:type="ntopo:Node" href="NetworkTopology.swosnt#//@spaceWireNetworkTopology/@subnet.0/@node.1"/>
+            <semanticElements xmi:type="ntopo:Node" href="NetworkTopology.swosnt#//@spaceWireNetworkTopology/@subnet.0/@node.1"/>
+            <ownedStyle xmi:type="diagram:Square" xmi:id="__1-o8RD1EeaLkIzG-3IkKg" labelPosition="node" width="10" height="10">
+              <description xmi:type="style:SquareDescription" href="platform:/resource/jp.pizzafactory.authoring.spacewireos/description/spacewireos.odesign#//@ownedViewpoints[name='topology']/@ownedRepresentations[name='NetworkTopology']/@defaultLayer/@containerMappings[name='Subnet']/@subNodeMappings[name='Node']/@borderedNodeMappings[name='']/@style"/>
+            </ownedStyle>
+            <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/jp.pizzafactory.authoring.spacewireos/description/spacewireos.odesign#//@ownedViewpoints[name='topology']/@ownedRepresentations[name='NetworkTopology']/@defaultLayer/@containerMappings[name='Subnet']/@subNodeMappings[name='Node']/@borderedNodeMappings[name='']"/>
+          </ownedBorderedNodes>
+          <ownedBorderedNodes xmi:type="diagram:DNode" xmi:id="__1_QABD1EeaLkIzG-3IkKg" name="NewNode" visible="false" width="10" height="10" resizeKind="NSEW">
+            <target xmi:type="ntopo:Node" href="NetworkTopology.swosnt#//@spaceWireNetworkTopology/@subnet.0/@node.2"/>
+            <semanticElements xmi:type="ntopo:Node" href="NetworkTopology.swosnt#//@spaceWireNetworkTopology/@subnet.0/@node.2"/>
+            <ownedStyle xmi:type="diagram:Square" xmi:id="__1_QARD1EeaLkIzG-3IkKg" labelPosition="node" width="10" height="10">
+              <description xmi:type="style:SquareDescription" href="platform:/resource/jp.pizzafactory.authoring.spacewireos/description/spacewireos.odesign#//@ownedViewpoints[name='topology']/@ownedRepresentations[name='NetworkTopology']/@defaultLayer/@containerMappings[name='Subnet']/@subNodeMappings[name='Node']/@borderedNodeMappings[name='']/@style"/>
+            </ownedStyle>
+            <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/jp.pizzafactory.authoring.spacewireos/description/spacewireos.odesign#//@ownedViewpoints[name='topology']/@ownedRepresentations[name='NetworkTopology']/@defaultLayer/@containerMappings[name='Subnet']/@subNodeMappings[name='Node']/@borderedNodeMappings[name='']"/>
+          </ownedBorderedNodes>
+          <ownedBorderedNodes xmi:type="diagram:DNode" xmi:id="_iG8-0BD2EeaLkIzG-3IkKg" name="1" outgoingEdges="_ZyTyoBD3EeaLkIzG-3IkKg" incomingEdges="_ZyJakBD3EeaLkIzG-3IkKg" width="3" height="3" resizeKind="NSEW">
+            <target xmi:type="ntopo:NodePort" href="NetworkTopology.swosnt#//@spaceWireNetworkTopology/@subnet.0/@node.1/@port.0"/>
+            <semanticElements xmi:type="ntopo:NodePort" href="NetworkTopology.swosnt#//@spaceWireNetworkTopology/@subnet.0/@node.1/@port.0"/>
+            <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+            <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+            <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+            <ownedStyle xmi:type="diagram:Dot" xmi:id="_wdveMBD2EeaLkIzG-3IkKg" showIcon="false" labelPosition="node">
+              <description xmi:type="style:DotDescription" href="platform:/resource/jp.pizzafactory.authoring.spacewireos/description/spacewireos.odesign#//@ownedViewpoints[name='topology']/@ownedRepresentations[name='NetworkTopology']/@defaultLayer/@containerMappings[name='Subnet']/@subNodeMappings[name='Node']/@borderedNodeMappings[name='NodePort']/@style"/>
+            </ownedStyle>
+            <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/jp.pizzafactory.authoring.spacewireos/description/spacewireos.odesign#//@ownedViewpoints[name='topology']/@ownedRepresentations[name='NetworkTopology']/@defaultLayer/@containerMappings[name='Subnet']/@subNodeMappings[name='Node']/@borderedNodeMappings[name='NodePort']"/>
+          </ownedBorderedNodes>
+          <ownedStyle xmi:type="diagram:Square" xmi:id="_fGfT1RAMEeag3LIDXWtBjg" labelPosition="node" width="10" height="10">
+            <description xmi:type="style:SquareDescription" href="platform:/resource/jp.pizzafactory.authoring.spacewireos/description/spacewireos.odesign#//@ownedViewpoints[name='topology']/@ownedRepresentations[name='NetworkTopology']/@defaultLayer/@containerMappings[name='Subnet']/@subNodeMappings[name='Node']/@style"/>
+          </ownedStyle>
+          <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/jp.pizzafactory.authoring.spacewireos/description/spacewireos.odesign#//@ownedViewpoints[name='topology']/@ownedRepresentations[name='NetworkTopology']/@defaultLayer/@containerMappings[name='Subnet']/@subNodeMappings[name='Node']"/>
+        </ownedDiagramElements>
+        <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_o9NMUBDzEeaLkIzG-3IkKg" name="NewNode" width="10" height="10" resizeKind="NSEW">
+          <target xmi:type="ntopo:Node" href="NetworkTopology.swosnt#//@spaceWireNetworkTopology/@subnet.0/@node.2"/>
+          <semanticElements xmi:type="ntopo:Node" href="NetworkTopology.swosnt#//@spaceWireNetworkTopology/@subnet.0/@node.2"/>
+          <ownedBorderedNodes xmi:type="diagram:DNode" xmi:id="__1_3EBD1EeaLkIzG-3IkKg" name="SMU-A" visible="false" width="10" height="10" resizeKind="NSEW">
+            <target xmi:type="ntopo:Node" href="NetworkTopology.swosnt#//@spaceWireNetworkTopology/@subnet.0/@node.0"/>
+            <semanticElements xmi:type="ntopo:Node" href="NetworkTopology.swosnt#//@spaceWireNetworkTopology/@subnet.0/@node.0"/>
+            <ownedStyle xmi:type="diagram:Square" xmi:id="__1_3ERD1EeaLkIzG-3IkKg" labelPosition="node" width="10" height="10">
+              <description xmi:type="style:SquareDescription" href="platform:/resource/jp.pizzafactory.authoring.spacewireos/description/spacewireos.odesign#//@ownedViewpoints[name='topology']/@ownedRepresentations[name='NetworkTopology']/@defaultLayer/@containerMappings[name='Subnet']/@subNodeMappings[name='Node']/@borderedNodeMappings[name='']/@style"/>
+            </ownedStyle>
+            <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/jp.pizzafactory.authoring.spacewireos/description/spacewireos.odesign#//@ownedViewpoints[name='topology']/@ownedRepresentations[name='NetworkTopology']/@defaultLayer/@containerMappings[name='Subnet']/@subNodeMappings[name='Node']/@borderedNodeMappings[name='']"/>
+          </ownedBorderedNodes>
+          <ownedBorderedNodes xmi:type="diagram:DNode" xmi:id="__2BsQBD1EeaLkIzG-3IkKg" name="AOCP-A" visible="false" width="10" height="10" resizeKind="NSEW">
+            <target xmi:type="ntopo:Node" href="NetworkTopology.swosnt#//@spaceWireNetworkTopology/@subnet.0/@node.1"/>
+            <semanticElements xmi:type="ntopo:Node" href="NetworkTopology.swosnt#//@spaceWireNetworkTopology/@subnet.0/@node.1"/>
+            <ownedStyle xmi:type="diagram:Square" xmi:id="__2BsQRD1EeaLkIzG-3IkKg" labelPosition="node" width="10" height="10">
+              <description xmi:type="style:SquareDescription" href="platform:/resource/jp.pizzafactory.authoring.spacewireos/description/spacewireos.odesign#//@ownedViewpoints[name='topology']/@ownedRepresentations[name='NetworkTopology']/@defaultLayer/@containerMappings[name='Subnet']/@subNodeMappings[name='Node']/@borderedNodeMappings[name='']/@style"/>
+            </ownedStyle>
+            <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/jp.pizzafactory.authoring.spacewireos/description/spacewireos.odesign#//@ownedViewpoints[name='topology']/@ownedRepresentations[name='NetworkTopology']/@defaultLayer/@containerMappings[name='Subnet']/@subNodeMappings[name='Node']/@borderedNodeMappings[name='']"/>
+          </ownedBorderedNodes>
+          <ownedBorderedNodes xmi:type="diagram:DNode" xmi:id="__2CTUBD1EeaLkIzG-3IkKg" name="NewNode" visible="false" width="10" height="10" resizeKind="NSEW">
+            <target xmi:type="ntopo:Node" href="NetworkTopology.swosnt#//@spaceWireNetworkTopology/@subnet.0/@node.2"/>
+            <semanticElements xmi:type="ntopo:Node" href="NetworkTopology.swosnt#//@spaceWireNetworkTopology/@subnet.0/@node.2"/>
+            <ownedStyle xmi:type="diagram:Square" xmi:id="__2CTURD1EeaLkIzG-3IkKg" labelPosition="node" width="10" height="10">
+              <description xmi:type="style:SquareDescription" href="platform:/resource/jp.pizzafactory.authoring.spacewireos/description/spacewireos.odesign#//@ownedViewpoints[name='topology']/@ownedRepresentations[name='NetworkTopology']/@defaultLayer/@containerMappings[name='Subnet']/@subNodeMappings[name='Node']/@borderedNodeMappings[name='']/@style"/>
+            </ownedStyle>
+            <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/jp.pizzafactory.authoring.spacewireos/description/spacewireos.odesign#//@ownedViewpoints[name='topology']/@ownedRepresentations[name='NetworkTopology']/@defaultLayer/@containerMappings[name='Subnet']/@subNodeMappings[name='Node']/@borderedNodeMappings[name='']"/>
+          </ownedBorderedNodes>
+          <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+          <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+          <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+          <ownedStyle xmi:type="diagram:Square" xmi:id="_o9NzYBDzEeaLkIzG-3IkKg" labelPosition="node" width="10" height="10">
+            <description xmi:type="style:SquareDescription" href="platform:/resource/jp.pizzafactory.authoring.spacewireos/description/spacewireos.odesign#//@ownedViewpoints[name='topology']/@ownedRepresentations[name='NetworkTopology']/@defaultLayer/@containerMappings[name='Subnet']/@subNodeMappings[name='Node']/@style"/>
+          </ownedStyle>
+          <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/jp.pizzafactory.authoring.spacewireos/description/spacewireos.odesign#//@ownedViewpoints[name='topology']/@ownedRepresentations[name='NetworkTopology']/@defaultLayer/@containerMappings[name='Subnet']/@subNodeMappings[name='Node']"/>
+        </ownedDiagramElements>
+        <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_NyWV0BD5EeaLkIzG-3IkKg" name="NewNode4" width="10" height="10" resizeKind="NSEW">
+          <target xmi:type="ntopo:Node" href="NetworkTopology.swosnt#//@spaceWireNetworkTopology/@subnet.0/@node.3"/>
+          <semanticElements xmi:type="ntopo:Node" href="NetworkTopology.swosnt#//@spaceWireNetworkTopology/@subnet.0/@node.3"/>
+          <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+          <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+          <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+          <ownedStyle xmi:type="diagram:Square" xmi:id="_NyW84BD5EeaLkIzG-3IkKg" labelPosition="node" width="10" height="10">
+            <description xmi:type="style:SquareDescription" href="platform:/resource/jp.pizzafactory.authoring.spacewireos/description/spacewireos.odesign#//@ownedViewpoints[name='topology']/@ownedRepresentations[name='NetworkTopology']/@defaultLayer/@containerMappings[name='Subnet']/@subNodeMappings[name='Node']/@style"/>
+          </ownedStyle>
+          <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/jp.pizzafactory.authoring.spacewireos/description/spacewireos.odesign#//@ownedViewpoints[name='topology']/@ownedRepresentations[name='NetworkTopology']/@defaultLayer/@containerMappings[name='Subnet']/@subNodeMappings[name='Node']"/>
+        </ownedDiagramElements>
+      </ownedDiagramElements>
+      <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_NrlngBDuEeaLkIzG-3IkKg" visible="false" sourceNode="_fGeswxAMEeag3LIDXWtBjg" targetNode="_fGesxxAMEeag3LIDXWtBjg">
+        <target xmi:type="ntopo:Subnet" href="NetworkTopology.swosnt#//@spaceWireNetworkTopology/@subnet.0"/>
+        <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_NsHzABDuEeaLkIzG-3IkKg" size="2">
+          <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/jp.pizzafactory.authoring.spacewireos/description/spacewireos.odesign#//@ownedViewpoints[name='topology']/@ownedRepresentations[name='NetworkTopology']/@defaultLayer/@edgeMappings[name='tmp']/@style"/>
+          <centerLabelStyle xmi:type="diagram:CenterLabelStyle" xmi:id="_NsHzARDuEeaLkIzG-3IkKg"/>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/jp.pizzafactory.authoring.spacewireos/description/spacewireos.odesign#//@ownedViewpoints[name='topology']/@ownedRepresentations[name='NetworkTopology']/@defaultLayer/@edgeMappings[name='tmp']"/>
+      </ownedDiagramElements>
+      <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_NsN5oBDuEeaLkIzG-3IkKg" visible="false" sourceNode="_fGeswxAMEeag3LIDXWtBjg" targetNode="_fGfT0hAMEeag3LIDXWtBjg">
+        <target xmi:type="ntopo:Subnet" href="NetworkTopology.swosnt#//@spaceWireNetworkTopology/@subnet.0"/>
+        <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_NsN5oRDuEeaLkIzG-3IkKg" size="2">
+          <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/jp.pizzafactory.authoring.spacewireos/description/spacewireos.odesign#//@ownedViewpoints[name='topology']/@ownedRepresentations[name='NetworkTopology']/@defaultLayer/@edgeMappings[name='tmp']/@style"/>
+          <centerLabelStyle xmi:type="diagram:CenterLabelStyle" xmi:id="_NsN5ohDuEeaLkIzG-3IkKg"/>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/jp.pizzafactory.authoring.spacewireos/description/spacewireos.odesign#//@ownedViewpoints[name='topology']/@ownedRepresentations[name='NetworkTopology']/@defaultLayer/@edgeMappings[name='tmp']"/>
+      </ownedDiagramElements>
+      <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_ZyJakBD3EeaLkIzG-3IkKg" name="Router1-AOCP-A" sourceNode="_7bFx4BAMEeag3LIDXWtBjg" targetNode="_iG8-0BD2EeaLkIzG-3IkKg">
+        <target xmi:type="ntopo:Link" href="NetworkTopology.swosnt#Router1-AOCP-A"/>
+        <semanticElements xmi:type="ntopo:Link" href="NetworkTopology.swosnt#Router1-AOCP-A"/>
+        <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_ZyQIQBD3EeaLkIzG-3IkKg" size="2">
+          <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/jp.pizzafactory.authoring.spacewireos/description/spacewireos.odesign#//@ownedViewpoints[name='topology']/@ownedRepresentations[name='NetworkTopology']/@defaultLayer/@edgeMappings[name='Link']/@style"/>
+          <centerLabelStyle xmi:type="diagram:CenterLabelStyle" xmi:id="_ZyQIQRD3EeaLkIzG-3IkKg"/>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/jp.pizzafactory.authoring.spacewireos/description/spacewireos.odesign#//@ownedViewpoints[name='topology']/@ownedRepresentations[name='NetworkTopology']/@defaultLayer/@edgeMappings[name='Link']"/>
+      </ownedDiagramElements>
+      <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_ZyTyoBD3EeaLkIzG-3IkKg" name="AOCP-A-Router1" sourceNode="_iG8-0BD2EeaLkIzG-3IkKg" targetNode="_7bFx4BAMEeag3LIDXWtBjg">
+        <target xmi:type="ntopo:Link" href="NetworkTopology.swosnt#AOCP-A-Router1"/>
+        <semanticElements xmi:type="ntopo:Link" href="NetworkTopology.swosnt#AOCP-A-Router1"/>
+        <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_ZyTyoRD3EeaLkIzG-3IkKg" size="2">
+          <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/jp.pizzafactory.authoring.spacewireos/description/spacewireos.odesign#//@ownedViewpoints[name='topology']/@ownedRepresentations[name='NetworkTopology']/@defaultLayer/@edgeMappings[name='Link']/@style"/>
+          <centerLabelStyle xmi:type="diagram:CenterLabelStyle" xmi:id="_ZyTyohD3EeaLkIzG-3IkKg"/>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/jp.pizzafactory.authoring.spacewireos/description/spacewireos.odesign#//@ownedViewpoints[name='topology']/@ownedRepresentations[name='NetworkTopology']/@defaultLayer/@edgeMappings[name='Link']"/>
+      </ownedDiagramElements>
+      <description xmi:type="description_1:DiagramDescription" href="platform:/resource/jp.pizzafactory.authoring.spacewireos/description/spacewireos.odesign#//@ownedViewpoints[name='topology']/@ownedRepresentations[name='NetworkTopology']"/>
+      <filterVariableHistory xmi:type="diagram:FilterVariableHistory" xmi:id="_fGfT2hAMEeag3LIDXWtBjg"/>
+      <activatedLayers xmi:type="description_1:Layer" href="platform:/resource/jp.pizzafactory.authoring.spacewireos/description/spacewireos.odesign#//@ownedViewpoints[name='topology']/@ownedRepresentations[name='NetworkTopology']/@defaultLayer"/>
+      <target xmi:type="ntopo:SpaceWireNetworkTopology" href="NetworkTopology.swosnt#//@spaceWireNetworkTopology"/>
+    </ownedRepresentations>
+    <viewpoint xmi:type="description:Viewpoint" href="platform:/resource/jp.pizzafactory.authoring.spacewireos/description/spacewireos.odesign#//@ownedViewpoints[name='topology']"/>
+  </ownedViews>
+</viewpoint:DAnalysis>

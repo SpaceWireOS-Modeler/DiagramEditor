@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SpaceWireChannelsInfo>
+　　<Channel Id="SMU-A_AOCP-A" >
+　　　　<Source Id="SMU-A" />
+　　　　<Destination Id="AOCP-A" Redundancy="2" />
+　　　　<Packet Id="Command_Write" Type="RMAP-W" Reply="True" Cargosize="1024" Period="16" />
+　　　　<Packet Id="TimeInformation_Write" Type="RMAP-W" Reply="False" Cargosize="4" Period="64" />
+　　　　<Packet Id="HK_Read" Type="RMAP-R" Reply="True" Cargosize="1000" Period="64" />
+　　　　<Packet Id="RequestFlag_Read" Type="RMAP-R" Reply="True" Cargosize="8" Period="4" />
+　　</Channel> 

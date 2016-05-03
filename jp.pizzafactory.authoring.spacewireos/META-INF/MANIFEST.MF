@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: jp.pizzafactory.authoring.spacewireos
+Bundle-SymbolicName: jp.pizzafactory.authoring.spacewireos;singleton:=true
+Bundle-Version: 1.0.0
+Bundle-Activator: jp.pizzafactory.authoring.spacewireos.Activator
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime,
+ org.eclipse.core.resources,
+ org.eclipse.sirius,
+ org.eclipse.sirius.common.acceleo.aql,
+ jp.pizzafactory.model.spacewireos;bundle-version="0.0.1"
+Bundle-ActivationPolicy: lazy
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
